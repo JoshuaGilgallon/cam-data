@@ -10,18 +10,18 @@ This repository contains a database of digital cameras with detailed specificati
 - **Coverage:** Professional DSLRs, mirrorless cameras, compact cameras, and specialised equipment, plus much more.
 
 ## Repository Structure
-    ```bash
-    ├───JSON
-    │       brands.json 
-    │       camera_data.json # Primary data file with all camera information
-    │       just_models.json # Just the camera models, in a JSON list
-    │       models.json # The models but in a dictionary structure
-    │
-    │
-    └───TXT
-            brands.txt # TXT file of every manufacturer, with each on a new line
-            models.txt # TXT file of every model, with each on a new line
-    ```
+```bash
+├───JSON
+│       brands.json 
+│       camera_data.json # Primary data file with all camera information
+│       just_models.json # Just the camera models, in a JSON list
+│       models.json # The models but in a dictionary structure
+│
+│
+└───TXT
+        brands.txt # TXT file of every manufacturer, with each on a new line
+        models.txt # TXT file of every model, with each on a new line
+```
 
 
 ## Available Data Formats
