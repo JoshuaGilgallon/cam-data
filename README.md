@@ -1,4 +1,4 @@
-# Camera Database Project
+# Camera Data Project
 
 ## Overview
 This repository contains a database of digital cameras with detailed specifications and technical information. The database includes information on about 3,835 camera models across 36 brands.
@@ -6,7 +6,7 @@ This repository contains a database of digital cameras with detailed specificati
 ## Data Statistics
 - **Total Camera Models:** 3,835
 - **Camera Brands:** 36
-- **Total lines of data:** 185169
+- **Total lines of data:** 185,169
 - **Coverage:** Professional DSLRs, mirrorless cameras, compact cameras, and specialised equipment, plus much more.
 
 ## Repository Structure
