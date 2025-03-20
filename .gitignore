@@ -20,8 +20,6 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-*.db
-*.sqlite3
 *_backup_*.json
 venv/
 ENV/
